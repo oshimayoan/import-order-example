@@ -1,7 +1,7 @@
 import React from 'react';
 import { View } from 'react-native';
 
-import { ThemeProvider } from './components';
+import { ThemeProvider } from "./components";
 import Home from './scenes/Home';
 
 import { LIGHT_THEME, DARK_THEME } from './constants/theme';
